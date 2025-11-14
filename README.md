@@ -1,6 +1,5 @@
 # ⚽ Rachaonet – Organize seu futebol de forma simples e online
 
-> Projeto Integrador (PI) – Universidade Tecnológica Federal do Paraná – Câmpus Campo Mourão (UTFPR-CM)
 
 ## 📌 Sobre o Projeto
 
